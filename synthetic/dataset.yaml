@@ -1,0 +1,6 @@
+path: /content/data/synthetic
+train: images/train
+val: images/val
+names:
+  0: plank_end
+  1: tube_end
