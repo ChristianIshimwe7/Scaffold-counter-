@@ -1,0 +1,6 @@
+image,file,count_in_box,raw_whole_image,correct,error,inference_ms
+"Image 4 (warehouse, 4 columns)",1.jpeg,66,96,,,31.1
+"Image 3 (open-channel planks, bottom faces)",2.jpeg,23,44,,,15.9
+"Image 2 (clean front view, 4 columns)",3.jpeg,74,104,,,13.4
+"Image 1 (planks from above, end faces at bottom)",4.jpg,10,28,,,14.1
+"Image 5 (3 columns, high resolution)",5.jpg,58,89,,,14.3
